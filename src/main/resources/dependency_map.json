@@ -1,0 +1,24 @@
+{
+  "dependencies": [
+    {
+      "name": "ModTheSpire",
+      "id": "1605060445",
+      "jar": "ModTheSpire.jar"
+    },
+    {
+      "name": "BaseMod",
+      "id": "1605833019",
+      "jar": "BaseMod.jar"
+    },
+    {
+      "name": "StSLib",
+      "id": "1609158507",
+      "jar": "StSLib.jar"
+    },
+    {
+      "name": "FriendlyMinions",
+      "id": "1612426481",
+      "jar": "FriendlyMinions.jar"
+    }
+  ]
+}
